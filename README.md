@@ -70,7 +70,9 @@ https://youtu.be/9FoYqBgRhcI?si=iF5QYNEWfQC0bYw5
 Working towards the final project was mostly centered around polishing the feel of the game. I tuned the spawn manager to make the enemies come towards the player in rates that balance action and difficulty. I edited outlines that will surround the enemies as they are within the range of roaring to be more apparent. I also implemented a lot of 2D assets and UI assets. Me and my team also did a lot of testing with the three monitors and foot pedals to make sure we have it working, and to make sure that we have the correct hardware. 
 
 **Final Project Gameplay Preview:**
-[![Final Project Gameplay Preview](https://img.youtube.com/GPHRbhCFqfc/0.jpg)](https://www.youtube.com/watch?v=GPHRbhCFqfc)
+
+[![Final Project Gameplay Preview](https://img.youtube.com/vi/GPHRbhCFqfc/0.jpg)](https://www.youtube.com/watch?v=GPHRbhCFqfc)
+
 https://youtu.be/GPHRbhCFqfc?si=QVXZifkrglqDJ52c
 
 **Link To Final Project:** https://timmy-fan-club.itch.io/fight-of-the-jabberwocky
