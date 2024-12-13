@@ -35,7 +35,7 @@ Outside of Unity, I configured a setup for the game to be played with usin 3 mon
 *insert gif here*
 
 # Link To Project
-**itch.io:** https://camilomedel.itch.io/fight-of-the-jabberwocky 
+**itch.io:** https://timmy-fan-club.itch.io/fight-of-the-jabberwocky
 
 # Process Overview
 For the project, we split our schedule into 3 main deadlines. A deliverable 1 deadline, deliverable 2 deadline, and a final project deadline. 
@@ -57,6 +57,12 @@ For deliverable 2, I changed our version control system to the "Unity Version Co
 In this deliverable, I created a morning, afternoon, and evening cycle which included growing difficulty as the game progresses. I created morre difficulty by making enemies get faster over time and making them spawn in faster intervals overtime. I also focused on implementing audio and animation assets.
 
 A major change I made for this deliverable is chaning enemy pathing. The previous version of pathing had an effect where enemies would be moving left to right and then towards to the player. I made a new version of pathing that includes pre-made paths which the enemy would choose one of the premade paths on randoms as they were spawned in. These premade paths allowed me to better control the movement of enemies. It also allowed me to create a effect where it seems that the enemies are running towards the player, and it allowed me to make the enemies avoid certain areas by setting the nodes in the premade paths to where I wanted to.
+
+**Deliverable 2 Short Demo:**
+
+[![Deliverable 2 Short Demo](https://img.youtube.com/vi/9FoYqBgRhcI/0.jpg)](https://www.youtube.com/watch?v=9FoYqBgRhcI)
+
+https://youtu.be/9FoYqBgRhcI?si=iF5QYNEWfQC0bYw5 
 
 # Final Project
 Working towards the final project was mostly centered around polishing the feel of the game. I tuned the spawn manager to make the enemies come towards the player in rates that balance action and difficulty. I edited outlines that will surround the enemies as they are within the range of roaring to be more apparent. I also implemented a lot of 2D assets and UI assets. Me and my team also did a lot of testing with the three monitors and foot pedals to make sure we have it working, and to make sure that we have the correct hardware. 
