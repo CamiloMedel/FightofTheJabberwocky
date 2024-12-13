@@ -32,7 +32,7 @@ Besided these structures, I also implemented audio and visual assets which I rec
 One key thing I did for the project involves setting up a version control system. I implemented Unity's version of version control, "Unity Version Control" for our project. This version control system allowed me and a 3D environment and modeling specialist on my team to collaborate on Unity outside of class time. We would work seperately on Unity as he made 3D asset changes, and I implemented my changes. We would then merge our changes together.
 
 Outside of Unity, I configured a setup for the game to be played with usin 3 monitors, 3 screens, and one microphone.
-![3 monitors, 3 screens setup]([https://github.com/CamiloMedel/FightofTheJabberwocky/blob/main/IMG_0538%20(1).gif](https://github.com/CamiloMedel/FightofTheJabberwocky/blob/main/SetupPreview.gif))
+![3 monitors, 3 screens setup](https://github.com/CamiloMedel/FightofTheJabberwocky/blob/main/SetupPreview.gif)
 
 # Link To Project
 **itch.io:** https://timmy-fan-club.itch.io/fight-of-the-jabberwocky
@@ -55,7 +55,7 @@ This later got changed as we added foot pedals to determine which area the playe
 For deliverable 2, I changed our version control system to the "Unity Version Control" system as it was becoming difficult to merge work done on the same scene. Unity Version Control made it easy to merge most changes, and it included a interface that didn't require us to leave Unity in order to push, pull, or check commit history. 
 
 In this deliverable, I created a morning, afternoon, and evening cycle which included growing difficulty as the game progresses. I created morre difficulty by making enemies get faster over time and making them spawn in faster intervals overtime. I also focused on implementing audio and animation assets.
-![image alt]([https://github.com/CamiloMedel/FightofTheJabberwocky/blob/main/IMG_0538%20(1).gif](https://github.com/CamiloMedel/FightofTheJabberwocky/blob/main/SetupPreview.gif)](https://github.com/CamiloMedel/FightofTheJabberwocky/blob/main/PhasesPreview.gif))
+![image alt](https://github.com/CamiloMedel/FightofTheJabberwocky/blob/main/PhasesPreview.gif)
 
 A major change I made for this deliverable is chaning enemy pathing. The previous version of pathing had an effect where enemies would be moving left to right and then towards to the player. I made a new version of pathing that includes pre-made paths which the enemy would choose one of the premade paths on randoms as they were spawned in. These premade paths allowed me to better control the movement of enemies. It also allowed me to create a effect where it seems that the enemies are running towards the player, and it allowed me to make the enemies avoid certain areas by setting the nodes in the premade paths to where I wanted to.
 
