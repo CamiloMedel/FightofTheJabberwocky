@@ -1,7 +1,7 @@
 # FightofTheJabberwocky
 _Project for AET 358 Next Level Arcade, UT AUSTIN_ 
 
-"You step into the role of Jerry, a misunderstood jabberwocky just trying to enjoy some peace in his forest home. But those ANNOYING villagers, knights, and—ugh—children just won’t leave you alone! Put on the jabberwocky mask and use your terrifying roar and audio cues to scare off those pesky humans."
+"You step into the role of Jerry, a misunderstood jabberwocky just trying to enjoy some peace in his forest home. But those ANNOYING villagers, knights, and—ugh—children just won’t leave you alone! Put on the jabberwocky mask and use your terrifying roar, visual cues, and audio cues to scare off those pesky humans."
 
 # Teaser Trailer:
 [![Teaser Trailer for Fight of the Jabberwocky](https://img.youtube.com/vi/UZWPnQezJ_s/0.jpg)](https://www.youtube.com/watch?v=UZWPnQezJ_s)
@@ -38,3 +38,19 @@ Outside of Unity, I configured a setup for the game to be played with usin 3 mon
 **itch.io:** https://camilomedel.itch.io/fight-of-the-jabberwocky 
 
 # Process Overview
+For the project, we split our schedule into 3 main deadlines. A deliverable 1 deadline, deliverable 2 deadline, and a final project deadline. 
+# Deliverable 1
+For deliverable 1, I set up github as our version control system with Unity. I also created a simple health system:
+https://youtu.be/UyGMCBMflY8?si=BneFXtxlZp1c9Y-Y 
+Within this deliverable, I made the first version of the roar meter which detectcs the loudest noise heard from the microphone and then displays it onto a UI bar:
+https://youtu.be/E1KcRlyE5lg?si=84fUT2KeXJhogK2a 
+While working towards the deliverable, I had made a version of the roar meter where the player would have to charge up their roar and then release it.
+https://youtu.be/RhmEmU02Z_c?si=SlyoUGBf5YIpe8vX 
+This later got changed as we added foot pedals to determine which area the player would roar at. We went with this new direction as it felt that the player was not getting any direct feedback as they yelled to roar. I also added basic enemies in this deliverable. Pathing for this enemies was based on three layers of nodes. Back nodes, middle nodes, and front nodes. A enemy would choose one node from each layer at random, and would then move towards each node in each layer from back to middle to front and then to the player's position.
+
+# Deliverable 2
+For deliverable 2, I changed our version control system to the "Unity Version Control" system as it was becoming difficult to merge work done on the same scene. Unity Version Control made it easy to merge most changes, and it included a interface that didn't require us to leave Unity in order to push, pull, or check commit history.
+In this deliverable, I created a morning, afternoon, and evening cycle which included growing difficulty as the game progresses. I created morre difficulty by making enemies get faster over time and making them spawn in faster intervals overtime. I also focused on implementing audio and animation assets.
+A major change I made for this deliverable is chaning enemy pathing. The previous version of pathing had an effect where enemies would be moving left to right and then towards to the player. I made a new version of pathing that includes pre-made paths which the enemy would choose one of the premade paths on randoms as they were spawned in. These premade paths allowed me to better control the movement of enemies. It also allowed me to create a effect where it seems that the enemies are running towards the player, and it allowed me to make the enemies avoid certain areas by setting the nodes in the premade paths to where I wanted to.
+
+
