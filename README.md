@@ -1,4 +1,4 @@
-# FightofTheJabberwocky
+# Fight Of The Jabberwocky
 _Project for AET 358 Next Level Arcade, UT AUSTIN_ 
 
 "You step into the role of Jerry, a misunderstood jabberwocky just trying to enjoy some peace in his forest home. But those ANNOYING villagers, knights, and—ugh—children just won’t leave you alone! Put on the jabberwocky mask and use your terrifying roar, visual cues, and audio cues to scare off those pesky humans."
