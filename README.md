@@ -32,6 +32,7 @@ Besided these structures, I also implemented audio and visual assets which I rec
 One key thing I did for the project involves setting up a version control system. I implemented Unity's version of version control, "Unity Version Control" for our project. This version control system allowed me and a 3D environment and modeling specialist on my team to collaborate on Unity outside of class time. We would work seperately on Unity as he made 3D asset changes, and I implemented my changes. We would then merge our changes together.
 
 Outside of Unity, I configured a setup for the game to be played with usin 3 monitors, 3 screens, and one microphone.
+
 ![3 monitors, 3 screens setup](https://github.com/CamiloMedel/FightofTheJabberwocky/blob/main/SetupPreview.gif)
 
 # Link To Project
